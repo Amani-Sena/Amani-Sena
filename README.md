@@ -5,6 +5,6 @@
 
 <div align="center">
   <a href="https://github.com/Amani-Sena">
-  <img width="260em" src="https://github-readme-stats.vercel.app/api?username=Amani-Sena&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="260em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amani-Sena&layout=compact&langs_count=7&theme=dark"/>
+  <img width="260em" height="140em" src="https://github-readme-stats.vercel.app/api?username=Amani-Sena&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="260em" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amani-Sena&layout=compact&langs_count=7&theme=dark"/>
 </div>
