@@ -1,7 +1,7 @@
 ## Olá, Amani Sena aqui!
 
-- 🔭 Foco em desenvolvimento web
-- 🌱 Estudando REACT
+<!--- 🔭 Foco em desenvolvimento web
+- 🌱 Estudando REACT-->
 
 <div align="center">
   <a href="https://github.com/Amani-Sena">
