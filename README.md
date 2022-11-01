@@ -1,6 +1,6 @@
 ## Olá, Amani Sena aqui!
 
-🔭 Foco em desenvolvimento web
+🔭 Foco em desenvolvimento web<br>
 🌱 Estudando Python
 
 <div align="center">
