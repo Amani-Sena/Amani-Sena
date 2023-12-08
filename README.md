@@ -1,4 +1,4 @@
-## Olá, Amani Sena aqui!
+## Olá, Amani aqui! 😺
 
 🔭 Foco em desenvolvimento web<br>
 🌱 Estudando NodeJS
