@@ -1,7 +1,7 @@
 ## Olá, Amani aqui! 😺
 
 🔭 Foco em desenvolvimento web<br>
-🌱 Estudando NodeJS
+🌱 Estudando React
 
 <div align="center">
   <a href="https://github.com/Amani-Sena">
