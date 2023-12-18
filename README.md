@@ -17,11 +17,3 @@
   <img align="center" alt="Amani-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> 
   <img align="right" alt="Amani-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/750722444901482607/1035966290176778260/download20221006141610.png">
 </div>
-  
-  ##
-  
-<div> 
-    <a href="https://www.instagram.com/amani.sena/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "mailto:amani.sena955@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/amani-sena-632231252/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
