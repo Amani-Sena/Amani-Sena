@@ -1,6 +1,6 @@
 ## Olá, Amani aqui! 😺
 
-<img width="60px" height="20px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img width="80px" height="30px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 
 <div align="center">
   <a href="https://github.com/Amani-Sena">
