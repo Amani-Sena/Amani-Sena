@@ -1,6 +1,6 @@
 ## Olá, Amani aqui! 😺
 
-🔭 Foco em desenvolvimento web<br>
+🔭 Foco em Desenvolvimento Web<br>
 🌱 Estudando Laravel
 
 <div align="center">
