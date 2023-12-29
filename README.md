@@ -3,13 +3,13 @@
 <div style=" display: 'flex', align-items: 'center', justify-content='flex-start', width: '100%'">
   <img width="76px" height="26px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   <img width="90px" height="26px" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</div>
+</div><br />
 
 <div align="center">
   <a href="https://github.com/Amani-Sena">
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Amani-Sena&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amani-Sena&layout=compact&langs_count=7&theme=dark"/>
-</div>
+</div><br />
 
 ## Minhas Skills e Power Up's
 
