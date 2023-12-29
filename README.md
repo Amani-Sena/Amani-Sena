@@ -2,8 +2,8 @@
 
 <div style=" display: 'flex', align-items: 'center', justify-content='flex-start', width: '100%'">
   <a href="mailto:amani.sena955@gmail.com"><img align="center" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://api.whatsapp.com/send?phone=5521970600875" target="_blank"><img align="center" alt="Whatssap" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/amani-sena-632231252/" target="_blank"><img align="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://api.whatsapp.com/send?phone=5521970600875"><img align="center" alt="Whatssap" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/amani-sena-632231252/"><img align="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </div></a><br />
 
 <div align="center">
