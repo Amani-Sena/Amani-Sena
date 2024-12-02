@@ -13,7 +13,7 @@ Estudando React 📚
 <div style="display: 'flex', justify-content:'space-around', align-items:'center'">
   <a href="https://github.com/Amani-Sena">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amani-Sena&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amani-Sena&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amani-Sena&hide_border=true&layout=compact&langs_count=7&theme=dark"/>
 </div><br />
 
 ### Minhas Skills e Power Up's
