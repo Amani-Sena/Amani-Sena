@@ -1,11 +1,14 @@
-## Hi, amaniDev here! 😺
+## Olá, Amani aqui! 😺
+Especialista em PHP/Laravel ☕
+Estudando React 📚
 
-### Connect with me!
+### Conecte-se comigo!
 
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:amani.sena955@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:hello@amanidev.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5521970600875)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amani-sena-632231252/)
-[![amaniDev](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://amani-sena.github.io/Portfolio/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amanidev_/)
+[![amaniDev](https://img.shields.io/badge/Portfolio-de217e?style=for-the-badge&logo=todoist&logoColor=e0e0e0)](https://amanidev.com)
 
 <div style="display: 'flex', justify-content:'space-around', align-items:'center'">
   <a href="https://github.com/Amani-Sena">
