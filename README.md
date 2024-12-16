@@ -1,6 +1,6 @@
 ## Olá, Amani aqui! 😺
 Especialista em PHP/Laravel ☕  
-Estudando React 📚
+Estudando React Native 📚
 
 ### Conecte-se comigo!
 
