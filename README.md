@@ -1,6 +1,5 @@
 ## Olá, Amani aqui! 😺
-Especialista em PHP/Laravel ☕  
-Estudando React Native 📚
+Desenvolvedora Web FullStack e Designer apaixonada por criar sites e apps bonitos, elegantes e simples. Trago essa filosofia em cada projeto, com o objetivo que meu trabalho sirva de inspiração!
 
 ### Conecte-se comigo!
 
