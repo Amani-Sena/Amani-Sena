@@ -1,6 +1,12 @@
 ## Olá, Amani aqui! 😺
 Desenvolvedora Web FullStack e Designer apaixonada por criar sites e apps bonitos, elegantes e simples. Trago essa filosofia em cada projeto, com o objetivo que meu trabalho sirva de inspiração!
 
+### Sobre mim!
+💻 Formada em TI e Web Design.  
+🎓 Graduada em Análise e Desenvolvimento de Sistemas.  
+🌍 Explorando novas tecnologias e desenvolvendo soluções.  
+❤️ Tenho um [blog](https://blog.amanidev.com) onde sempre estou postando dicas sobre a área e incentivando dev's.  
+
 ### Conecte-se comigo!
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:hello@amanidev.com)
